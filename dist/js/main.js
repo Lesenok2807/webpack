@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Hello, I am file number one"),console.log("Hello, I am file number two")})();
